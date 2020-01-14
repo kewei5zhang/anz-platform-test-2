@@ -1,5 +1,5 @@
 # GO ENV VARIABLES
-BUILD_IMAGE=platform-test:build
+BUILD_IMAGE=anz-test-2:build
 HOST_PORT=8080
 CONTAINER_PORT=8000
 
