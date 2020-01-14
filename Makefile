@@ -1,7 +1,7 @@
 # GO ENV VARIABLES
 BUILD_IMAGE=platform-test:build
 HOST_PORT=8080
-CONTAINER_PORT=80
+CONTAINER_PORT=8000
 
 .PHONY: go-build
 go-build: ## Build builder go image

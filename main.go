@@ -21,5 +21,5 @@ func main() {
 	}
 	api := Handler{}
 	api.Initialize()
-	api.Run(":80")
+	api.Run(":8000")
 }
